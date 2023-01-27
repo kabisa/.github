@@ -1,3 +1,11 @@
+## What
+
+Explain what changes inside the code, this can be as simple or complicated as you want as long as it's clear
+
+## Why
+
+Explain why these things are changes. This explanation is for your colleagues and your future self.
+
 ## Code Review
 
 Please consider the following checklist when reviewing this Pull Request.  
